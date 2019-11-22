@@ -10,5 +10,3 @@ print(cars)
 cars.reverse()
 print("\nHere is the reverse list")
 print(cars)
-
-len(cars) 
